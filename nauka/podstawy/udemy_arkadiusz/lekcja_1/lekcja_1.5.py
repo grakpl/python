@@ -1,0 +1,1 @@
+# zmiennne typu float
